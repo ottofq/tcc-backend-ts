@@ -1,7 +1,8 @@
 {
     "env": {
         "es2020": true,
-        "node": true
+        "node": true,
+        "jest": true
     },
     "extends": [
         "airbnb-base"
@@ -14,6 +15,5 @@
     "plugins": [
         "@typescript-eslint"
     ],
-    "rules": {
-    }
+    "rules": {}
 }
