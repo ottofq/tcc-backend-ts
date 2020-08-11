@@ -1,0 +1,7 @@
+{
+  "name": "tcc-backend-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Otto F. Quintanilha <ottofq@gmail.com>",
+  "license": "MIT"
+}
